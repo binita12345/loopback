@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlDs": {
+    "name": "mysqlDs",
+    "localStorage": "",
+    "file": "",
+    "connector": "mysql",
+    "host": "localhost",
+	"port": 3306,
+	"database": "mysqlDs",
+	"password": "new-password",
+	"user": "root"
+  }
+}
